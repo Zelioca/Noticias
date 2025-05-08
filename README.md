@@ -1,2 +1,2 @@
-código feito para o trabalho do 2° SI
-aluno Hiran Silva dos Santos
+Projeto feito para o trabalho do 2° do ensino técnico SI
+Aluno Hiran Silva dos Santos
